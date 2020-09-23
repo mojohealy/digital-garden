@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/mapping.md",
+            "file": "_notes/graduate employability.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/mapping.md"
+                "file": "_notes/graduate employability.md"
               }
             }
           }
@@ -72,18 +72,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/mapping.md",
+    "_notes/graduate employability.md",
     "_pages/index.md",
+    "_notes/mapping.md",
+    "_pages/about.md",
     "_notes/higher education research.md",
     "_notes/Mapping.md",
-    "_notes/graduate employability.md",
     "_notes/career development.md",
     "_notes/Peter McIlveen.md",
     "_notes/PhD by publication.md",
-    "_notes/Sara Hammer.md",
-    "_notes/Studies in Higher Education.md"
+    "_notes/Sara Hammer.md"
   ]
 }
