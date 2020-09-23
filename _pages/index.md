@@ -20,7 +20,9 @@ If you don't have access, you can get the author's original manuscript from [my 
 ### Stroll around my mind garden of the article: 
 There is no specific way to read this website. You just need to click links to navigate as purposefully or as randumbly as you please. 
 
-The best way to get into the ins and outs of the article might be through the component parts of the title: [[mapping|Mapping]] [[graduate employability]] and [[career development]] in [[higher education research]]: A [[citation network analysis]].  
+The best way to get into the ins and outs of the article might be through the component parts of the title: 
+
+[[mapping|Mapping]] [[graduate employability]] and [[career development]] in [[higher education research]]: A [[citation network analysis]].  
 
 <style>
   .wrapper {
