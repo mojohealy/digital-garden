@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "0d1f202fe4968204",
+        "id": "caf25b044ed63445",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/about.md",
+            "file": "_notes/mapping.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/about.md"
+                "file": "_notes/mapping.md"
               }
             }
           }
@@ -76,12 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/mapping.md",
+    "_notes/PhD by publication.md",
+    "_notes/Sara Hammer.md",
+    "_notes/Peter McIlveen.md",
+    "_notes/Studies in Higher Education.md",
+    "_notes/Mapping graduate employability and career development in higher education research.md",
+    "_notes/citation network analysis.md",
     "_pages/about.md",
     "_pages/index.md",
-    "Mapping graduate employability and career development in higher education.md",
-    "_site/README.md",
-    "_notes/Mapping GE and CD.md",
-    "_notes/CD.md",
-    "_notes/GE.md"
+    "_notes/Mapping.md"
   ]
 }
