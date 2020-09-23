@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_pages/about.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md"
+                "file": "_pages/about.md"
               }
             }
           }
@@ -76,8 +76,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/index.md",
     "_pages/about.md",
+    "_pages/index.md",
+    "Mapping graduate employability and career development in higher education.md",
     "_site/README.md",
     "_notes/Mapping GE and CD.md",
     "_notes/CD.md",
