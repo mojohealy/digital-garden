@@ -1,6 +1,12 @@
 ---
 title: career development
+image: /assets/fig3.jpg
 --- 
 As a field of research, career development is an umbrella term for [[vocational psychology]], [[I/O psychology]], and [[career development practice]] research. Broadly speaking, it investigates psychological, cognitive, and behavioural characteristics that help or hinder people's career success. 
 
-Our [[citation network analysis]] allowed us to identify 
+Our [[citation network analysis]], illustrated below, allowed us to map and describe specific [[clusters]] in this research: [[career exploration, decision making,
+and self-management]] (blue), [[career decision-making difficulties]] (yellow), [[career orientations]] (green), [[career development barriers]] (pink), and [[biomedical career development]] (brown). 
+
+![]({{page.image}})
+
+The main body of this network is mostly [[vocational psychology]] research, while the [[career orientations]] cluster is where we see more [[I/O psychology]] research. In 2001, Mark Savickas characterised the two as unrelated islands, but we suggest that peninsula is a more accurate [[mapping]] metaphor for the current relationship of I/O to vocational psychology. 
