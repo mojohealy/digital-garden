@@ -1,6 +1,6 @@
 ---
 title: graduate employability
-image: /assetts/fig2.jpg
+image: /assets/fig2.jpg
 --- 
 Graduate employability research is part of the broader field of [[higher education research]]. It looks at a broad range of factors which influence the career and employment success of university students and characteristics. There have been several [[surveys of graduate employability]] literature, but our article is the first, to my knowledge, to apply an empirical approach such as [[citation network analysis]]. 
 
