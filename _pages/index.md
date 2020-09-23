@@ -5,15 +5,15 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
+# Welcome! 
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Mapping GE and CD]]</span> to get started on your exploration.
-</p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+I am [Michael Healy](www.mojohealy.com), a careers and employability educator and PhD candidate at the University of Southern Queensland, Australia. 
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). Say hi! 👋
+This website is a summary of and elaboration on the first research article published as part of my PhD by publication portfolio: [Mapping graduate employability and career development in higher education](https://www.tandfonline.com/doi/full/10.1080/03075079.2020.1804851). 
+
+There is no specific way to read this website. Start at the start and click on the links that interest you. Amble or stumble around as purposefully or as randombly as you please. 
 
 <style>
   .wrapper {

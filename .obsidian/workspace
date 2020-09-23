@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Mapping GE and CD.md",
+            "file": "_pages/index.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Mapping GE and CD.md"
+                "file": "_pages/index.md"
               }
             }
           }
@@ -76,9 +76,11 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_pages/index.md",
+    "_pages/about.md",
+    "_site/README.md",
     "_notes/Mapping GE and CD.md",
     "_notes/CD.md",
-    "_notes/GE.md",
-    "_pages/index.md"
+    "_notes/GE.md"
   ]
 }
