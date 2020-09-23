@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_notes/Mapping.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md"
+                "file": "_notes/Mapping.md"
               }
             }
           }
@@ -76,9 +76,9 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/mapping.md",
     "_pages/index.md",
     "_notes/Peter McIlveen.md",
-    "_notes/mapping.md",
     "_notes/graduate employability.md",
     "_notes/PhD by publication.md",
     "_notes/Sara Hammer.md",
