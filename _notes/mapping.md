@@ -13,3 +13,4 @@ We were fortunate that Mark Savickas had used a similar metaphor, of [[vocationa
 
 #### Mapping as method
 The method we used in this study, [[citation network analysis]], was useful in that it lends itself to visualisations that can resemble maps. We were able to draw on geographical metaphors to characterise the [[graduate employability citation network]] and [[career development citation network]] and describe how they relate to each other. 
+
