@@ -72,19 +72,18 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "lastOpenFiles": [
-    "_notes/mapping.md",
+    "_notes/Mapping.md",
     "_pages/index.md",
-    "_notes/Peter McIlveen.md",
     "_notes/graduate employability.md",
+    "_notes/mapping.md",
+    "_notes/Peter McIlveen.md",
     "_notes/PhD by publication.md",
     "_notes/Sara Hammer.md",
     "_notes/Studies in Higher Education.md",
     "_notes/Mapping graduate employability and career development in higher education research.md",
-    "_notes/citation network analysis.md",
-    "_pages/about.md"
+    "_notes/citation network analysis.md"
   ]
 }
