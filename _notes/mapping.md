@@ -1,6 +1,7 @@
 ---
 title: mapping
 image: /assets/fig1.jpg
+permalink: /mapping
 ---
 Mapping is the central concept in this article, both theoretically, as a way of making sense of fields of study, and methodologically, as a way of illustrating certain characteristics of the research. 
 

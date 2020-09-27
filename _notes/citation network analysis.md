@@ -1,6 +1,7 @@
 ---
 title: citation network analysis
 image: /assets/fig1.jpg
+permalink: /career_development
 ---
 
 The method we used for our study was direct citation network analysis. Our data was all the articles that resulted from our [[literature search]] and our analysis amounted to drawing lines between articles that cited or were cited by each other. There's many kinds of citation analysis, *direct* just means we only looked at which articles cite which articles. 
