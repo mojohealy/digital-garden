@@ -7,7 +7,7 @@ The gap between [[graduate employability]] and [[career development]] in scholar
 
 From the beginning of this project, we knew the value of the article's Figure 1, the main visualisation of the full citation network. 
 
-![]({page.image})
+![]({{page.image}})
 
 This view only shows the 100 articles with the most links, and there are some other authors who make links between the two fields. But nonetheless, the gap is clear and it's impossible to argue that it doesn't exist. 
 
