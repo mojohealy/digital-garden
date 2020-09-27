@@ -9,4 +9,4 @@ and self-management]] (blue), [[career decision-making difficulties]] (yellow), 
 
 ![]({{page.image}})
 
-The main body of this network is mostly [[vocational psychology]] research, while the [[career orientations]] cluster is where we see more [[I/O psychology]] research. In 2001, Mark Savickas characterised the two as unrelated islands, but we suggest that peninsula is a more accurate [[mapping]] metaphor for the current relationship of I/O to vocational psychology. 
+The main body of this network is mostly [[vocational psychology]] research, while the [[career orientations]] cluster is where we see more [[I/O psychology]] research. In 2001, Mark Savickas characterised the two as unrelated islands, but in our article we demonstrate that peninsula is a more accurate [[mapping]] metaphor for the current relationship of I/O to vocational psychology. 

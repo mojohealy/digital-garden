@@ -8,4 +8,4 @@ Based on our analysis of the graduate employability citation network (illustrate
 
 ![]({{page.image}})
 
-We showed that graduate employability shares many of the disciplinary qualities of the broader [[higher education research]]. Equally importantly, our analysis proved what we and some others had noted in the graduate employability literature: that it did not include [[career development]] literature as much as you might expect. Demonstrating this gap is the first step in our argument for an integrated approach to [[careers and employability learning]]. 
+We showed that graduate employability shares many of the disciplinary qualities of the broader [[higher education research]]. Equally importantly, our analysis proved what we and some others had noted in the graduate employability literature: that it did not include [[career development]] literature as much as you might expect. Demonstrating [[the gap]] is the first step in our argument for an integrated approach to [[careers and employability learning]]. 
