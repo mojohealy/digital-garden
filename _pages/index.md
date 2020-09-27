@@ -7,7 +7,7 @@ permalink: /
 
 # Welcome! 
 
-This website is a summary of and elaboration on: [*Mapping graduate employability and career development in higher education research: A citation network analysis*](https://www.tandfonline.com/doi/abs/10.1080/03075079.2020.1804851?journalCode=cshe20). 
+This website is a summary of and elaboration on the article [*Mapping graduate employability and career development in higher education research: A citation network analysis*](https://www.tandfonline.com/doi/abs/10.1080/03075079.2020.1804851?journalCode=cshe20) by [[Michael Healy]], [[Sara Hammer]], and [[Peter McIlveen]]. 
 
 ### Stroll around my mind garden: 
 There is no specific way to read this website. You just need to click links to navigate as purposefully or as randomly as you please. You can also see the website presented as a graph, showing the links between each note, at the bottom of each page. 
