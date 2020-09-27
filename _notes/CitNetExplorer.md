@@ -1,5 +1,6 @@
 ---
 title: CitNetExplorer
+image: /assets/fig1.jpg
 --- 
 
 [CitNetExplorer](https://www.citnetexplorer.nl/) is the tool that made this article possible. That's not to say that this is the only tool that could do the analysis and present the visualisations that we needed, there are many that can. What sets CitNetExplorer apart is its user-friendliness. I was able to create an early version the main citation map, so clearly showing [[the gap]], in about 20 minutes after first downloading CitNetExplorer. 

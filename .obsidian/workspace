@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/clusters.md",
+            "file": "_notes/Studies in Higher Education.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/clusters.md"
+                "file": "_notes/Studies in Higher Education.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/clusters.md",
-    "_notes/graduate employability.md",
+    "_notes/Studies in Higher Education.md",
+    "_notes/the gap.md",
+    "_notes/Sara Hammer.md",
+    "_notes/Peter McIlveen.md",
     "_notes/CitNetExplorer.md",
-    "_notes/mapping.md",
+    "_notes/clusters.md",
+    "jingle jangle.md",
+    "careers and employability learning.md",
     "_notes/citation network analysis.md",
-    "clusters.md",
-    "literature search.md",
-    "the gap.md",
-    "_notes/career development.md",
-    "_pages/index.md"
+    "_notes/career development.md"
   ]
 }
