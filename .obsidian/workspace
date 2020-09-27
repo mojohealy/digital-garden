@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "8eb9447ce61d3e7d",
+        "id": "d028f91dc3093c86",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/citation network analysis.md",
+            "file": "_notes/clusters.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/citation network analysis.md"
+                "file": "_notes/clusters.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/citation network analysis.md",
+    "_notes/clusters.md",
+    "_notes/graduate employability.md",
+    "_notes/CitNetExplorer.md",
     "_notes/mapping.md",
-    "_notes/Peter McIlveen.md",
-    "_notes/PhD by publication.md",
-    "_notes/Sara Hammer.md",
-    "_notes/Studies in Higher Education.md",
+    "_notes/citation network analysis.md",
+    "clusters.md",
+    "literature search.md",
+    "the gap.md",
     "_notes/career development.md",
-    "_pages/index.md",
-    "_pages/about.md",
-    "graph.md"
+    "_pages/index.md"
   ]
 }

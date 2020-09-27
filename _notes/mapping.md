@@ -1,9 +1,9 @@
 ---
 title: mapping
 image: /assets/fig1.jpg
-permalink: /mapping
+permalink: 
 ---
-Mapping is the central concept in this article, both theoretically, as a way of making sense of fields of study, and methodologically, as a way of illustrating certain characteristics of the research. 
+Mapping is a central concept in this article, both theoretically, as a way of making sense of fields of study, and methodologically, as a way of illustrating certain characteristics of the research. 
 
 #### Mapping as theory
 Several distinct geographic metaphors have been applied to [[higher education research]]: Sue Clegg's article [Conceptualising higher education research and/
