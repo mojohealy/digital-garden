@@ -3,7 +3,9 @@ title: clusters
 ---
 Our findings in this article were based on the clusters that [[CitNetExplorer]] was able to discern in our broader [[citation network analysis]]. Clusters are the result of an [algorithm](https://link.springer.com/article/10.1007%2Fs11192-017-2300-7) which compares how closely related articles in the network are and assigns closely connected articles to groups. In CitNetExplorer, you can change certain settings to influence the sensitivity of the algorithm and how many clusters are identified. 
 
-CitNetExplorer only identifies clusters, it doesn't tell us what they have in common. That required us to review the list of articles in each cluster, often reading their abstracts, and use our knowledge of each field to recognise the theme of each one. In our [[citation network analysis]], we identified five clusters in each side of [[the gap]]. 
+CitNetExplorer only identifies clusters, it doesn't tell us what they have in common. That required us to review the list of articles in each cluster, often reading their abstracts, and use our knowledge of each field to recognise the theme of each one. 
+
+Of the 4068 articles in our [[literature search]] results,  1,850 were assigned to a cluster. We identified five clusters on each side of [[the gap]]. 
 
 In [[graduate employability]]: the [[graduate employability cluster]] (green), [[professional identities]] (purple), [[graduate attributes]] (blue), [[percieved employability]] (orange), and [[workplace learning]] (red).
 
