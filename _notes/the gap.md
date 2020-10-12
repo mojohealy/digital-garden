@@ -9,6 +9,6 @@ From the beginning of this project, we knew the value of the article's Figure 1,
 
 ![]({{page.image}})
 
-This view only shows the 100 articles with the most links, and there are some other authors who make links between the two fields. But nonetheless, the gap is clear and it's impossible to argue that it doesn't exist. 
+This view only shows the 100 articles with the most links: there are some other authors who make links between the two fieldsin the underlying networks. But nonetheless, the gap is clear and it's impossible to argue that it doesn't exist. 
 
 Our job then became to argue that the gap is a problem and that it should be closed. We approached this by highlighting areas where the concerns of each field overlap, by warning of the risk of [[jingle jangle]], and by sharing our view that the two fields could be brought together in an integrative pedagogy of [[careers and employability learning]]. 

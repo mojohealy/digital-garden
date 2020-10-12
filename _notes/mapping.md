@@ -9,7 +9,7 @@ Mapping is a central concept in this article, both theoretically, as a way of ma
 Several distinct geographic metaphors have been applied to [[higher education research]]: Sue Clegg's article [Conceptualising higher education research and/
 or academic development as ‘fields’: a critical analysis](https://doi.org/10.1080/07294360.2012.690369) is a good overview. 
 
-The metaphors that we drew on the most in this article are Tony Becher and Paul Trowler's notion of [academic tribes and territories](https://books.google.com.au/books/about/Academic_Tribes_and_Territories.html?id=N76dAAAAMAAJ) and Bruce Macfarlane's [[higher education archipelago]]. 
+The metaphors that we drew on the most in this article are Tony Becher and Paul Trowler's notion of [academic tribes and territories](https://books.google.com.au/books/about/Academic_Tribes_and_Territories.html?id=N76dAAAAMAAJ) and Bruce Macfarlane's [[higher education research archipelago]]. 
 
 We were fortunate that [Mark Savickas had used a similar metaphor](https://www.sciencedirect.com/science/article/abs/pii/S0001879101918342?via%3Dihub), of [[vocational psychology]] and [[I/O psychology]] as islands within [[career development]] that  have little to do with each other. This allowed us to make an elegant connection between previous characterisions of the two fields we mapped in this study. 
 
