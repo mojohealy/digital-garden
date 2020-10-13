@@ -5,7 +5,7 @@ image: /assets/fig1.jpg
 
 The gap between [[graduate employability]] and [[career development]] in scholarly research is the central premise of our article. The gap has been noted before, but ours is the first research to really put it under the microscope. 
 
-From the beginning of this project, we knew the value of the article's Figure 1, the main visualisation of the full citation network. 
+From the beginning of this project, we knew the value of our the visualisation of the full citation network in demonstrating that the gap is real. 
 
 ![]({{page.image}})
 

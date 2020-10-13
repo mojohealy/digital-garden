@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/the gap.md",
+            "file": "_notes/careers and employability learning.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/the gap.md"
+                "file": "_notes/careers and employability learning.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/the gap.md",
+    "_notes/careers and employability learning.md",
+    "_notes/career development practice.md",
+    "_notes/career development.md",
+    "_notes/clusters.md",
+    "career development practice.md",
     "_notes/surveys.md",
-    "_notes/jingle jangle.md",
-    "_notes/mapping.md",
-    "_notes/literature search.md",
-    "_notes/higher education research archipelago.md",
+    "_notes/I&O psychology.md",
     "_notes/higher education research.md",
     "_notes/graduate employability.md",
-    "_notes/higher education archipelago.md",
     "_notes/CitNetExplorer.md"
   ]
 }
