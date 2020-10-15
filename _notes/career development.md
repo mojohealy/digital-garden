@@ -13,5 +13,3 @@ and self-management]] (blue), [[career decision-making difficulties]] (yellow), 
 ![]({{page.image}})
 
 The main body of this network is mostly [[vocational psychology]] research, while the [[career orientations]] cluster is where we see more [[I&O psychology]] research. In 2001, [Mark Savickas characterised](https://www.sciencedirect.com/science/article/abs/pii/S0001879101918342?via%3Dihub) the two as unrelated islands, but in our article we demonstrate that peninsula is a more accurate [[mapping]] metaphor for the current relationship of I&O to vocational psychology. 
-
-<a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-size="large" data-text="doi.org/10.1080/03075079.2020.1804851" data-via="mojohealy" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
