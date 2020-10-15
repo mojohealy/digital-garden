@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_notes/career development.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md"
+                "file": "_notes/career development.md"
               }
             }
           }
@@ -76,8 +76,8 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/index.md",
     "_notes/career development.md",
+    "_pages/index.md",
     "_pages/about.md",
     "Michael Healy.md",
     "_notes/Studies in Higher Education.md",
