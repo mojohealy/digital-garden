@@ -16,7 +16,7 @@ I have designed this website using a [template](https://maximevaillancourt.com/b
 
 The starting point for this particular mind garden is my [published article](https://www.tandfonline.com/doi/full/10.1080/03075079.2020.1804851). But as anyone who has ever published a scholarly article will tell you, it requires you to strictly, surgically prune your ideas and language. In this mind garden I'm able to restore some of the off-cuts, let some ideas grow shoots, and generally share some of the true character of my reading, writing, and thinking.  
 
-![<span>Photo by <a href="https://unsplash.com/@laicho?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Cherry Laithang</a> on <a href="https://unsplash.com/s/photos/garden?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText">Unsplash</a></span>]({{page.image}})
+![Photo by  Cherry Laithang on Unsplash.com]({{page.image}})
 
 ### Stroll around my mind garden: 
 There is no specific way to read this website. You just need to click links to navigate as purposefully or as randomly as you please. You can also see the website presented as a graph, showing the links between each note, at the bottom of each page. 
