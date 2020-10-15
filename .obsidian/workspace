@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/citation network analysis.md",
+            "file": "_pages/index.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/citation network analysis.md"
+                "file": "_pages/index.md"
               }
             }
           }
@@ -76,10 +76,10 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/citation network analysis.md",
-    "_notes/career development.md",
     "_pages/index.md",
     "_pages/about.md",
+    "_notes/citation network analysis.md",
+    "_notes/career development.md",
     "Michael Healy.md",
     "_notes/Studies in Higher Education.md",
     "_notes/Sara Hammer.md",
