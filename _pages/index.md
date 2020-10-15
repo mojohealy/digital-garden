@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Home
+image: /assets/garden.jpg
 id: home
 permalink: /
 ---
