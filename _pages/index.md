@@ -17,7 +17,7 @@ There is no specific way to read this article. You just need to click links to n
 The best way to get into the ins and outs of the article might be through the component parts of the title: [[mapping]] [[graduate employability]] and [[career development]] in [[higher education research]]: A [[citation network analysis]].  
 
 ### Get the full article: 
-[![]({{page.image}}](https://www.tandfonline.com/doi/full/10.1080/03075079.2020.1804851)
+![]({{page.image}}
 
 Official published version: [Mapping graduate employability and career development in higher education research: a citation network analysis](https://www.tandfonline.com/doi/full/10.1080/03075079.2020.1804851). 
 
