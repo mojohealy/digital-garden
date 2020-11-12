@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "d028f91dc3093c86",
+        "id": "4f5b33b4b2d93f24",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_pages/index.md",
+            "file": "_notes/biomedical career development.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_pages/index.md"
+                "file": "_notes/biomedical career development.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_pages/index.md",
-    "_notes/the gap.md",
-    "_notes/surveys.md",
-    "_notes/Studies in Higher Education.md",
-    "_notes/Sara Hammer.md",
-    "_pages/about.md",
-    "_notes/citation network analysis.md",
+    "_notes/biomedical career development.md",
+    "_notes/career decision-making difficulties.md",
+    "_notes/career exploration, decision-making, and self-management.md",
+    "_notes/career orientations.md",
     "_notes/career development.md",
-    "Michael Healy.md",
-    "_notes/Peter McIlveen.md"
+    "career orientations.md",
+    "career decision-making difficulties.md",
+    "biomedical career development.md",
+    "_notes/the gap.md",
+    "_notes/career development barriers.md"
   ]
 }

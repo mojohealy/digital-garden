@@ -11,7 +11,7 @@ In [[graduate employability]]: the [[graduate employability cluster]] (green), [
 
 ![](https://unruffled-ptolemy-28c954.netlify.app/assets/fig2.jpg)
 
-In [[career development]]:  [[career exploration, decision making, and self-management]] (blue), [[career decision-making difficulties]] (yellow), [[career orientations]] (green), [[career development barriers]] (pink), and [[biomedical career development]] (brown). 
+In [[career development]]:  [[career exploration, decision-making, and self-management]] (blue), [[career decision-making difficulties]] (yellow), [[career orientations]] (green), [[career development barriers]] (pink), and [[biomedical career development]] (brown). 
 
 ![](https://unruffled-ptolemy-28c954.netlify.app/assets/fig3.jpg)
 
