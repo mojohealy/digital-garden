@@ -4,9 +4,9 @@ title: career decision-making difficulties
 
 The second largest [[cluster]] in the [[career development]] network is *career decision-making difficulties*. Consisting of 275 articles, it is in fact in large part an extension of the [[career exploration, decision-making, and self-management]] cluster, focusing specifically on "impediments to career decision-making and research into specific challenges, such as family influences or negative emotional states". 
 
-As with the [[career exploration, decision-making, and self-management]] cluster, much of the work in this cluster uses the [[social-cognitive career theory]] as a theoretical framework and the [career decision-making self-efficacy scale]() as a measure. 
+As with the [[career exploration, decision-making, and self-management]] cluster, much of the work in this cluster uses the [[social-cognitive career theory]] as a theoretical framework and the [career decision-making self-efficacy scale](https://doi.org/10.1177%2F106907279600400405) as a measure. 
 
-You can view the full list of articles included in this cluster in the [supplementary data file](). 
+You can view the full list of articles included in this cluster in the [supplementary data file](https://srhe.tandfonline.com/doi/suppl/10.1080/03075079.2020.1804851/suppl_file/cshe_a_1804851_sm1489.xlsx). 
 
 #### Select reading: 
 
