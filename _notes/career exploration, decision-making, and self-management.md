@@ -8,7 +8,9 @@ A lot of the research in this cluster uses the [[social-cognitive career theory]
 
 In short, this cluster provides a wealth of well theorised and validated evidence about how people, particularly university students approach career decision-making, learn from experience, develop confidence in their prospects, and enact proactive career behaviours. The alignment of these concerns with those at the heart of [[graduate employability]] research are clear, yet there is very little exchange between them. 
 
-You can view the full list of articles included in this cluster in the {{% staticref "assets/data.xlsx" %}}supplementary data file{{% /staticref %}}. A key starting point is: 
+You can view the full list of articles included in this cluster in the [supplementary data file](). 
+
+#### Select reading: 
 
 Betz, N. E., Hammond, M. S., & Multon, K. D. (2005). Reliability and validity of five-level response continua for the career decision self-efficacy scale. *Journal of Career Assessment*, 13(2), 131–149. [https://doi.org/10.1177/1069072704273123]()
 

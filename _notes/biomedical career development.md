@@ -8,7 +8,9 @@ This cluster stands almost entirely apart from the rest of the [[career developm
 
 Something that we noted about this cluster is that is an entirely different body of research to that looking at nursing students' [[professional identities]]. In this cluster, biomedical means doctors and surgeons.
 
-You can view the full list of articles included in this cluster in the {{% staticref "assets/data.xlsx" %}}supplementary data file{{% /staticref %}}. A starting point is: 
+You can view the full list of articles included in this cluster in the [supplementary data file](). 
+
+#### Select reading: 
 
 Fried, L. P., Francomano, C. A., MacDonald, S. M., Wagner, E. M., Stokes, E., Carbone, K. M., Bias, W. B., Newman, M. M., & Stobo, J. D. (1996). Career development for women in academic medicine—Multiple interventions in a department of medicine. *Journal of the American Medical Association*. (276)11, 898–905.  [https://doi.org/10.1001/jama.276.11.898]()
 
