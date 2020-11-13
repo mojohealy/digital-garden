@@ -14,6 +14,6 @@ The metaphors that we drew on the most in this article are Tony Becher and Paul 
 We were fortunate that [Mark Savickas had used a similar metaphor](https://www.sciencedirect.com/science/article/abs/pii/S0001879101918342), of [[vocational psychology]] and [[I/O psychology]] as islands within [[career development]] that  have little to do with each other. This allowed us to make an elegant connection between previous characterisions of the two fields we mapped in this study. 
 
 #### Mapping as method
-The method we used in this study, [[citation network analysis]], was useful in that it lends itself to visualisations that can resemble maps, as you can see from our [[citation network analysis]] visualisation below. We were able to draw on geographical metaphors to characterise the [[graduate employability]] and [[career development]] literatures and describe how they relate to each other. 
+The method we used in this study, [[citation network analysis]], was useful in that it lends itself to visualisations that can resemble maps, as you can see from our [[citation network analysis]] visualisation below. We were able to draw on geographical metaphors to characterise the [[graduate employability]] and [[career development]] literatures and describe how they relate to each other. Most importantly, our maps made [[the gap]] between them crystal clear.
 
 ![]({{page.image}})

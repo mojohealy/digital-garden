@@ -10,7 +10,7 @@ permalink: /
 
 I am [[Michael Healy]], a careers and employability educator and PhD candidate at the University of Southern Queensland, Australia. 
 
-This website is a summary of: [*Mapping graduate employability and career development in higher education research: A citation network analysis*](https://www.tandfonline.com/doi/abs/10.1080/03075079.2020.1804851?journalCode=cshe20). It was witten with with my doctoral supervisors [[Sara Hammer]] and [[Peter McIlveen]] and published in the journal [[Studies in Higher Education]]. It represents quite a big milestone for me, as it is my first first-authored research article and the first article of my PhD by publication portfolio to be published. 
+This website is a [[mind garden]] of: [*Mapping graduate employability and career development in higher education research: A citation network analysis*](https://www.tandfonline.com/doi/abs/10.1080/03075079.2020.1804851?journalCode=cshe20). It was witten with with my doctoral supervisors [[Sara Hammer]] and [[Peter McIlveen]] and published in the journal [[Studies in Higher Education]]. It represents quite a big milestone for me, as it is my first first-authored research article and the first article of my PhD by publication portfolio to be published. 
 
 There is no specific way to read this article. You just need to click links to navigate as purposefully or as randomly as you please. You can also see the website presented as a graph, showing the links between each note, at the bottom of each page. 
 

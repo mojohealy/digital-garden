@@ -1,6 +1,7 @@
---- 
-title: graduate attritbutes
 ---
+title: graduate attributes
+--- 
+
 *Graduate attributes* are the central focus of one of the [[clusters]] in the broader [[graduate employability]] citation network. Consisting of 148 articles, it is concerned with the range of "disciplinary skills and knowledge, generic skills, critical literacies, and social awareness afforded by higher education". Graduate employability is frequently noted as an element of graduate attributes, but for the most part graduate attributes represent a broader, more holistic view of how higher education develops students. 
 
 [[Sara Hammer]], one of the authors of *Mapping Graduate Employability and Career Development in Higher Education Research*, is an author on a seminal graduate attributes article in this cluster. 
