@@ -1,5 +1,5 @@
 ---
-title: CitNet Explorer
+title: CitNetExplorer
 image: /assets/fig1.jpg
 ---
 
