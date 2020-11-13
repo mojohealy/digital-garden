@@ -9,11 +9,10 @@ It also includes research into careers services in higher education, because muc
 
 Two authors of *Mapping Graduate Employability and Career Development in Higher Education Research*, [[Michael Healy]] and [[Peter McIlveen]], appear as authors in this cluster. 
 
-You can view the full list of articles included in this cluster in the [supplementary data file](). 
+You can view the full list of articles included in this cluster in the [supplementary data file](https://srhe.tandfonline.com/doi/suppl/10.1080/03075079.2020.1804851/suppl_file/cshe_a_1804851_sm1489.xlsx). 
 
 #### Select reading: 
-
-Kleiman, T., Gati, I., Peterson, G., Sampson, J., Reardon, R., & Lenz, J. (2004). Dysfunctional thinking and difficulties in career decision making. *Journal of Career Assessment*, (12)3, 312–331. [https://doi.org/10.1177/1069072704266673]()
+Kleiman, T., Gati, I., Peterson, G., Sampson, J., Reardon, R., & Lenz, J. (2004). Dysfunctional thinking and difficulties in career decision making. *Journal of Career Assessment*, 12(3), 312–331. [https://doi.org/10.1177/1069072704266673]()
 
 Luzzo, D. A., Hitchings, W. E., Retish, P., & Shoemaker, A. (1999). Evaluating differences in college students’ career decision making on the basis of disability status. *The Career Development Quarterly*, 48(2), 142–156. [https://doi.org/10.1002/j.2161-0045.1999.tb00281.x]()
 

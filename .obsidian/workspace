@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "4f5b33b4b2d93f24",
+        "id": "49c2302816648b97",
         "type": "leaf",
         "active": true,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/career exploration, decision-making, and self-management.md",
+            "file": "_notes/biomedical career development.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/career exploration, decision-making, and self-management.md"
+                "file": "_notes/biomedical career development.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/career exploration, decision-making, and self-management.md",
-    "_notes/career decision-making difficulties.md",
-    "_notes/career development barriers.md",
-    "_notes/career orientations.md",
-    "_notes/career development practice.md",
-    "_notes/career development.md",
     "_notes/biomedical career development.md",
-    "_notes/surveys.md",
-    "_notes/vocational psychology.md",
-    "_notes/I&O psychology.md"
+    "_notes/career decision-making difficulties.md",
+    "_notes/career exploration, decision-making, and self-management.md",
+    "_notes/career orientations.md",
+    "_notes/career development barriers.md",
+    "_notes/careers and employability learning.md",
+    "_notes/graduate attributes.md",
+    "_notes/graduate employability cluster.md",
+    "_notes/perceived employability.md",
+    "_notes/professional identities.md"
   ]
 }

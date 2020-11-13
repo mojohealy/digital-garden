@@ -7,7 +7,7 @@ CitNetExplorer only identifies clusters, it doesn't tell us what they have in co
 
 Of the 4068 articles in our [[literature search]] results,  1,850 were assigned to a cluster. We identified five clusters on each side of [[the gap]]. 
 
-In [[graduate employability]]: the [[graduate employability cluster]] (green), [[professional identities]] (purple), [[graduate attributes]] (blue), [[percieved employability]] (orange), and [[workplace learning]] (red).
+In [[graduate employability]]: the [[graduate employability cluster]] (green), [[professional identities]] (purple), [[graduate attributes]] (blue), [[perceived employability]] (orange), and [[workplace learning]] (red).
 
 ![](https://unruffled-ptolemy-28c954.netlify.app/assets/fig2.jpg)
 
