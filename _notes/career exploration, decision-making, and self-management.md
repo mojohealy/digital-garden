@@ -2,7 +2,7 @@
 title: career exploration, decision-making, and self-management
 ---
 
-*Career exploration, decision-making, and self-management* is the largest and most influential [[clusters | cluster]] of research in the [[career development]] side of our [[mapping | map]]. Consisting of 386 articles, it looks at "factors related to career exploration, decision-making, and self-management, including career decision-making self-efficacy, adaptive career behaviours, career maturity, career self-management, career learning experiences, and career exploration."
+*Career exploration, decision-making, and self-management* is the largest and most influential of the [[clusters]] of research in the [[career development]] side of our [[mapping]] of the research. Consisting of 386 articles, it looks at "factors related to career exploration, decision-making, and self-management, including career decision-making self-efficacy, adaptive career behaviours, career maturity, career self-management, career learning experiences, and career exploration."
 
 A lot of the research in this cluster uses the [[social-cognitive career theory]] as a theoretical framework and the [career decision-making self-efficacy scale](https://doi.org/10.1177%2F106907279600400405) as a measure. 
 
