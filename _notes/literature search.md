@@ -15,4 +15,4 @@ university OR “higher education” OR college.
 
 We had to exclude one article which was included in the results because it had certain key words, but wasn't actually relevant. Similarly, we had to manually include two highly influential articles by [Mel Fugate and colleagues](https://scholar.google.com.au/citations?user=n22UVIcAAAAJ&hl=en), which weren't specifically about higher education and so not included in the results. 
 
-All in all, we ended up with 4,068 articles. Of those, 1,850 articles would be assigned to [[clusters]] by [[CitNetExplorer]]. 
+All in all, we ended up with 4,068 articles. Of those, 1,850 articles would be assigned to [[clusters]] by [[CitNetExplorer]]. You can view the full list of articles included in the clusters in the [supplementary data file](https://srhe.tandfonline.com/doi/suppl/10.1080/03075079.2020.1804851/suppl_file/cshe_a_1804851_sm1489.xlsx). 

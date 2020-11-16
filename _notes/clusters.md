@@ -15,3 +15,4 @@ In [[career development]]:  [[career exploration, decision-making, and self-mana
 
 ![](https://unruffled-ptolemy-28c954.netlify.app/assets/fig3.jpg)
 
+You can view the full list of articles included in each cluster in the [supplementary data file](https://srhe.tandfonline.com/doi/suppl/10.1080/03075079.2020.1804851/suppl_file/cshe_a_1804851_sm1489.xlsx). 
