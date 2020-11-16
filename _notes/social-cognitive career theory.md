@@ -7,7 +7,7 @@ In our article we didn't have the scope to describe specific theories [[graduate
 
 Social-cognitive career theory was the result of an effort to unify foundational career development theories of career interests, decisions and goals, behaviours and attitudes, and learning experiences. Most importantly, it adopted Albert Bandura's [social cognitive theory](https://en.wikipedia.org/wiki/Social_cognitive_theory), putting learning experiences and self-efficacy at the heart of the social cognitive career theory. 
 
-![]({{page.image}})
+![Social-cognitive career theory, from Lent & Brown (2019)]({{page.image}})
 
 As shown in the illustration above, the social-cognitive career theory holds that a person's learning experiences are strongly influenced by personal and contextual factors. Their learning experiences help shape their sense of how well they are able to complete certain actions (self-efficacy) and what they expect the outcomes of their actions to be (outcome expectations). The strength and clarity of their self-efficacy and outcome expctations then influences their career interests, decisions and goals, and actions. The relative success or failure of their actions then influences their self-efficacy and outcome expectations, in an iterative, lifelong learning process. 
 
