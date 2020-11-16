@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "social-cognitive career theory.md",
+            "file": "_notes/social-cognitive career theory.md",
             "mode": "source"
           }
         }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": ""
+                "query": "mappping"
               }
             }
           }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "social-cognitive career theory.md"
+                "file": "_notes/social-cognitive career theory.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "social-cognitive career theory.md",
-    "_notes/career decision-making difficulties.md",
-    "_notes/industrial and organisational psychology.md",
-    "_notes/perceived employability.md",
-    "_notes/careers and employability learning.md",
-    "_notes/career orientations.md",
-    "_notes/career exploration, decision-making, and self-management.md",
+    "_notes/social-cognitive career theory.md",
+    "_notes/professional identities.md",
+    "_notes/graduate employability.md",
+    "_notes/career development.md",
     "_notes/career development barriers.md",
+    "_notes/career exploration, decision-making, and self-management.md",
+    "_notes/mapping.md",
     "_notes/biomedical career development.md",
-    "_notes/the gap.md"
+    "_notes/graduate attributes.md",
+    "_notes/literature search.md"
   ]
 }

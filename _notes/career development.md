@@ -7,8 +7,7 @@ In our article, we use *career development* as an umbrella term for a combinatio
 
 Although it shares many of the same overall concerns as [[graduate employability]], this work seldom shows up in graduate employability research. Our main motivation for writing this article was to illustrate [[the gap]] between the fields and argue for the value in bridging it. 
 
-Our [[citation network analysis]], illustrated below, allowed us to map and describe specific [[clusters]] in this research: [[career exploration, decision-making,
-and self-management]] (blue), [[career decision-making difficulties]] (yellow), [[career orientations]] (green), [[career development barriers]] (pink), and [[biomedical career development]] (brown). 
+Our [[citation network analysis]], illustrated below, allowed us to map and describe specific [[clusters]] in this research: [[career exploration, decision-making, and self-management]] (blue), [[career decision-making difficulties]] (yellow), [[career orientations]] (green), [[career development barriers]] (pink), and [[biomedical career development]] (brown). 
 
 ![]({{page.image}})
 

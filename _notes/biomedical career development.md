@@ -4,7 +4,7 @@ title: biomedical career development
 
 The smallest of the [[clusters]] of research in the [[career development]] is focused on [[biomedical career development]]. Consisting of 68 articles, it looks at the career development needs and influences of biomedical students and professionals, including evaluations of professional development and gender equity interventions. 
 
-This cluster stands almost entirely apart from the rest of the [[career development]] network, as an island of its own on our [[mappping]] of the field, with just one link to Robert Lent and Steven Brown's [1994 article](https://doi.org/10.1006/jvbe.1994.1027) on [[social-cognitive career theory]]. 
+This cluster stands almost entirely apart from the rest of the [[career development]] network, as an island of its own on our [[mapping]] of the field, with just one link to Robert Lent and Steven Brown's [1994 article](https://doi.org/10.1006/jvbe.1994.1027) on [[social-cognitive career theory]]. 
 
 Something that we noted about this cluster is that is an entirely different body of research to that looking at nursing students' [[professional identities]]. In this cluster, biomedical means doctors and surgeons.
 
