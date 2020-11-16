@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/graduate attributes.md",
+            "file": "_notes/mind garden.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/graduate attributes.md"
+                "file": "_notes/mind garden.md"
               }
             }
           }
@@ -76,6 +76,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/mind garden.md",
     "_notes/graduate attributes.md",
     "_notes/Michael Healy.md",
     "_notes/career orientations.md",
@@ -84,7 +85,6 @@
     "_notes/CitNetExplorer.md",
     "_notes/clusters.md",
     "_notes/graduate employability.md",
-    "_notes/higher education research.md",
-    "_notes/higher education research archipelago.md"
+    "_notes/higher education research.md"
   ]
 }
