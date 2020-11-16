@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/mind garden.md",
+            "file": "career development practice.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/mind garden.md"
+                "file": "career development practice.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/mind garden.md",
-    "_notes/graduate attributes.md",
+    "career development practice.md",
     "_notes/Michael Healy.md",
-    "_notes/career orientations.md",
-    "_notes/careers and employability learning.md",
-    "_notes/citation network analysis.md",
-    "_notes/CitNetExplorer.md",
-    "_notes/clusters.md",
+    "_notes/career development.md",
+    "_notes/vocational psychology.md",
+    "_notes/industrial and organisational psychology.md",
+    "_notes/higher education research archipelago.md",
+    "_notes/the gap.md",
+    "_notes/perceived employability.md",
     "_notes/graduate employability.md",
-    "_notes/higher education research.md"
+    "_notes/graduate employability cluster.md"
   ]
 }
