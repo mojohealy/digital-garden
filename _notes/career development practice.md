@@ -7,4 +7,4 @@ We note the [abundant evidence](https://www.linkedin.com/pulse/why-careers-emplo
 
 As [[the gap]] in our [[mapping]] exercise implies, there is a similar gap in the professional practice of [[careers and employability learning]] more broadly, with academics, teaching and learning specialists, and work-integrated learning specialists on one hand and university careers services staff on the other. As well as promoting greater integration of research, we hope that our article also promotes greater collaboration at the professional level. 
 
-The next article in my PhD, [[Who does employability?]] looks specifically at the professional practice part of this discussion. 
+The next article in my PhD, [[Who does employability]] looks specifically at the professional practice part of this discussion. 

@@ -8,4 +8,4 @@ One main reason [[the gap]] is a problem is the risk of the jingle jangle fallac
 
 Professional identity, for example, is the focus of an entire cluster of research in [[graduate employability]], but is also considered in a lot of [[career development]] research. Yet, scholars from one area don't cite those in the other and when you look closely, you see that the concept of professional identity looks quite different in each field. 
 
-A more integrative approach to [[careers and employability learning]] can mitigate this risk, by making researchers more aware of what is happening in the adjacent field and encouraging them to look for useful theory and evidence, rather than reinventing the wheel themselves. 
+A more integrative approach to [[careers and employability learning]] can mitigate this risk, by making researchers and practitioners more aware of what is happening in the adjacent field and encouraging them to look for useful theory and evidence, rather than reinventing the wheel themselves. 
