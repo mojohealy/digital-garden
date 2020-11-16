@@ -6,4 +6,6 @@ Our position is that [[the gap]] between [[graduate employability]] and [[career
 
 We identified several researchers who have started to bridge the gap, introducing contemporary [[career development]] theory and evidence, mostly from the [[career orientations]] cluster, into their [[graduate employability]] work: Yehuda Baruch, William Donald, Denise Jackson, Silvia Monteiro, Belgin Okay-Somerville, and Michael Tomlinson and their colleagues. As yet, there is little or no exchange in the other direction. 
 
+One particular area for further integration is the [[social-cognitive career theory]], which underpins most of the [[career exploration, decision-making, and self-management]] and [[career decision-making difficulties]] clusters, but as yet has had almost no impact in [[graduate employability]] research. 
+
 We use the term careers and employability learning to describe research and professional practice that integrates elements of both fields. This article has made an argument for an integrated approach in terms of scholarship. Likewise, my next article [[Who does employability]] will address [[the gap]] and argue for a more integrated approach to careers and employability learning in terms of professional practice. 

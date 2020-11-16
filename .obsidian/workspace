@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/Who does employability.md",
+            "file": "social-cognitive career theory.md",
             "mode": "source"
           }
         }
@@ -64,7 +64,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/Who does employability.md"
+                "file": "social-cognitive career theory.md"
               }
             }
           }
@@ -76,15 +76,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "_notes/Who does employability.md",
-    "_notes/graduate attributes.md",
-    "_notes/graduate employability.md",
+    "social-cognitive career theory.md",
+    "_notes/career decision-making difficulties.md",
     "_notes/industrial and organisational psychology.md",
-    "_notes/Michael Healy.md",
-    "_notes/mind garden.md",
-    "_notes/Peter McIlveen.md",
-    "_notes/vocational psychology.md",
-    "_notes/the gap.md",
-    "_notes/surveys.md"
+    "_notes/perceived employability.md",
+    "_notes/careers and employability learning.md",
+    "_notes/career orientations.md",
+    "_notes/career exploration, decision-making, and self-management.md",
+    "_notes/career development barriers.md",
+    "_notes/biomedical career development.md",
+    "_notes/the gap.md"
   ]
 }
