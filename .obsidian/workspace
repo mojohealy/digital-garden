@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "_notes/literature search.md",
+            "file": "_notes/perceived employability.md",
             "mode": "source"
           }
         }
@@ -40,11 +40,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "mappping"
+                "query": "industrial"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -64,7 +65,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_notes/literature search.md"
+                "file": "_notes/perceived employability.md"
               }
             }
           }
@@ -76,6 +77,7 @@
     "collapsed": true
   },
   "lastOpenFiles": [
+    "_notes/perceived employability.md",
     "_notes/literature search.md",
     "_notes/clusters.md",
     "_notes/career orientations.md",
@@ -84,7 +86,6 @@
     "_notes/social-cognitive career theory.md",
     "_notes/professional identities.md",
     "_notes/graduate employability.md",
-    "_notes/career development.md",
-    "_notes/career development barriers.md"
+    "_notes/career development.md"
   ]
 }
